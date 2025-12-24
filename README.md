@@ -1,27 +1,31 @@
-# Hello
+# Call
 
-## A free, p2p, group video call app for the web. No signups. No downloads. Works in all major browsers.
+## Бесплатное веб-приложение для групповых видеозвонков по протоколу P2P. Регистрация не требуется. Загрузка не требуется. Работает во всех основных браузерах.
 
-Hello is built on WebRTC, enabling peer-to-peer video, audio, and text communication. Group calls use a mesh topology, where each participant connects directly to every other participant. This means there’s no central server handling the media streams, which keeps things private and low-latency, but also makes performance dependent on the number of participants and their internet speeds. Call quality tends to decrease as more people join, with the sweet spot typically being around 6 to 8 participants on a high-speed connection.
+Приложение Call построено на основе WebRTC, что обеспечивает одноранговую передачу видео, аудио и текста. Групповые звонки используют топологию mesh, где каждый участник напрямую подключается к каждому другому участнику. Это означает отсутствие центрального сервера, обрабатывающего потоки данных, что обеспечивает конфиденциальность и низкую задержку, но также делает производительность зависимой от количества участников и скорости их интернет-соединения. Качество связи, как правило, снижается по мере увеличения числа участников, оптимальным является количество участников от 6 до 8 при высокоскоростном соединении.
 
-### Key Features
+### Ключевые особенности
 
-- **No Sign-up Required:** Join or create video calls instantly without accounts or passwords.
-- **Peer-to-Peer WebRTC:** Low-latency direct streaming between participants.
-- **Unique Channel URLs:** Easily shareable links like `domain/channel-id`.
-- **Embed Anywhere:** Embed calls on any website or app using an `<iframe>`.
-- **Free and Browser-Based:** 100% free, runs in modern browsers with no downloads.
+- **Регистрация не требуется:** Мгновенное подключение или создание видеозвонков без учетных записей и паролей.
+
+- **Одноранжированная передача WebRTC:** Прямая передача данных между участниками с низкой задержкой.
+
+- **Уникальные URL-адреса каналов:** Легко распространяемые ссылки, например, `domain/channel-id`.
+
+- **Встраивание в любое место:** Встраивайте вызовы на любой веб-сайт или в любое приложение с помощью `<iframe>`.
+
+- **Бесплатно и работает в браузерах:** 100% бесплатно, работает в современных браузерах без загрузок.
 
 ---
 
-### Wiki
+### Вики
 
-Please refer [wiki page](https://github.com/vasanthv/hello/wiki) for more documentation.
+Пожалуйста, обратитесь к [странице вики](https://github.com/vasanthv/hello/wiki) для получения дополнительной документации.
 
-### Contributions
+### Вклад
 
-Please refer <a href="https://github.com/vasanthv/hello/blob/master/markdowns/CONTRIBUTIONS.md">CONTRIBUTIONS.md</a> for more info.
+Пожалуйста, обратитесь к <a href="https://github.com/vasanthv/hello/blob/master/markdowns/CONTRIBUTIONS.md">CONTRIBUTIONS.md</a> для получения дополнительной информации.
 
-### LICENSE
+### ЛИЦЕНЗИЯ
 
-<a href="https://github.com/vasanthv/hello/blob/master/LICENSE">MIT License</a>
+<a href="https://github.com/vasanthv/hello/blob/master/LICENSE">Лицензия MIT</a>
