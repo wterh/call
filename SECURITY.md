@@ -1,19 +1,18 @@
-# Security Policy
+# Политика безопасности
 
-## Supported Versions
+## Поддерживаемые версии
 
-We release security updates only for the latest stable version. Please ensure you are using the most recent release.
+Мы выпускаем обновления безопасности только для последней стабильной версии. Пожалуйста, убедитесь, что вы используете самую последнюю версию.
 
-## Reporting a Vulnerability
+## Сообщение об уязвимости
 
-If you discover a security vulnerability, please do the following:
+Если вы обнаружили уязвимость в системе безопасности, пожалуйста, выполните следующие действия:
 
-- **Do not** open a public issue.
-- Email us at [imvasanthv@gmail.com] with details of the vulnerability.
-- Provide as much information as possible to help us understand and resolve the issue quickly.
+- Создавайте публичную заявку c Вашими контактами.
+- Предоставьте как можно больше информации, чтобы помочь нам понять и быстро решить проблему.
 
-We will respond as soon as possible and keep you updated on the progress. Once the vulnerability is resolved, we will publish a security update and acknowledge your contribution if desired.
+Мы ответим как можно скорее и будем держать вас в курсе прогресса. После устранения уязвимости мы опубликуем обновление безопасности и, при желании, отметим ваш вклад.
 
-## Responsible Disclosure
+## Ответственное раскрытие информации
 
-We appreciate responsible disclosure and will make every effort to address reported vulnerabilities promptly.
+Мы ценим ответственное раскрытие информации и приложим все усилия для оперативного устранения сообщенных уязвимостей.
